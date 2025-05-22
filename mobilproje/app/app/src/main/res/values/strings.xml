@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">2048</string>
+    <string name="score_text">Score: 0</string>
+    <string name="best_score_text">Best: 0</string>
+    <string name="new_game">New Game</string>
+    <string name="game_over">Game Over!</string>
+    <string name="you_win">You Win!</string>
+</resources>

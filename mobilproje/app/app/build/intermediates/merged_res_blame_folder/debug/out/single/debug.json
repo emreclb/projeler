@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.android2048game.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.example.android2048game.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.android2048game.app-merged_res-36:/layout_activity_leaderboard.xml.flat",
+        "source": "com.example.android2048game.app-main-38:/layout/activity_leaderboard.xml"
+    }
+]
