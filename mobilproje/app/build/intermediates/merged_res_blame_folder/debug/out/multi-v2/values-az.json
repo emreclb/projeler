@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.android2048game.app-mergeDebugResources-31:/values-az/values-az.xml",
+            "outputFile": "com.example.android2048game.app-mergeDebugResources-34:/values-az/values-az.xml",
             "map": [
                 {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\2b09c2cd4192fe4b7b686a651ae8eff3\\transformed\\material-1.11.0\\res\\values-az\\values-az.xml",

@@ -3194,7 +3194,11 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnBack
+id btnLeaderboard
 id btnNewGame
+id btnResetScores
+id buttonContainer
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3330,6 +3334,7 @@ id jumpToEnd
 id jumpToStart
 id labeled
 id layout
+id leaderboardContainer
 id left
 id leftToRight
 id legacy
@@ -3451,6 +3456,7 @@ id pin
 id position
 id postLayout
 id pressed
+id progressBar
 id progress_circular
 id progress_horizontal
 id radio
@@ -3572,7 +3578,18 @@ id transition_scene_layoutid_cache
 id transition_transform
 id triangle
 id tvBestScore
+id tvLeaderboardTitle
+id tvName1
+id tvName2
+id tvName3
+id tvPlayerName
+id tvRank1
+id tvRank2
+id tvRank3
 id tvScore
+id tvScore1
+id tvScore2
+id tvScore3
 id unchecked
 id uniform
 id unlabeled
@@ -3710,6 +3727,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_leaderboard
 layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item

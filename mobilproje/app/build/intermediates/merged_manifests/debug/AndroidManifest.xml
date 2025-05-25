@@ -8,6 +8,10 @@
         android:minSdkVersion="21"
         android:targetSdkVersion="34" />
 
+    <!-- Permissions for internet access to connect to SQL Server -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
     <permission
         android:name="com.example.android2048game.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
@@ -32,6 +36,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.android2048game.LeaderboardActivity"
+            android:exported="false"
+            android:label="Leaderboard" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
@@ -47,6 +55,11 @@
                 android:name="androidx.profileinstaller.ProfileInstallerInitializer"
                 android:value="androidx.startup" />
         </provider>
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
 
         <receiver
             android:name="androidx.profileinstaller.ProfileInstallReceiver"
