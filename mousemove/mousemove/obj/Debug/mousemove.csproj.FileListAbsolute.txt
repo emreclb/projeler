@@ -1,0 +1,10 @@
+C:\Users\emre0\source\repos\mousemove\mousemove\obj\Debug\mousemove.csproj.AssemblyReference.cache
+C:\Users\emre0\source\repos\mousemove\mousemove\obj\Debug\mousemove.Form1.resources
+C:\Users\emre0\source\repos\mousemove\mousemove\obj\Debug\mousemove.Properties.Resources.resources
+C:\Users\emre0\source\repos\mousemove\mousemove\obj\Debug\mousemove.csproj.GenerateResource.cache
+C:\Users\emre0\source\repos\mousemove\mousemove\obj\Debug\mousemove.csproj.CoreCompileInputs.cache
+C:\Users\emre0\source\repos\mousemove\mousemove\bin\Debug\mousemove.exe.config
+C:\Users\emre0\source\repos\mousemove\mousemove\bin\Debug\mousemove.exe
+C:\Users\emre0\source\repos\mousemove\mousemove\bin\Debug\mousemove.pdb
+C:\Users\emre0\source\repos\mousemove\mousemove\obj\Debug\mousemove.exe
+C:\Users\emre0\source\repos\mousemove\mousemove\obj\Debug\mousemove.pdb
